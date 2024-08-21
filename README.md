@@ -2,7 +2,7 @@
 <h1 align="center">Unitune Issues Repository</h1>
 
 <p align="center">
-  <img src="https://flexmotion.moartis.dev/img/flexmotion-logo-256.png" alt="FlexMotion logo"/>
+  <img src="https://unitune.moartis.dev/img/unitune-logo.webp" alt="FlexMotion logo"/>
 </p>
 
 Welcome to the issues repository for Unitune, a WebGL-compatible easy-to-use tracker music player.
